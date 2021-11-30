@@ -3,6 +3,7 @@
     <sdk-url>
       <set>
         <option value="file://$USER_HOME$/.goenv/versions/1.16.0" />
+        <option value="file:///usr/local/opt/go/libexec" />
       </set>
     </sdk-url>
   </component>
