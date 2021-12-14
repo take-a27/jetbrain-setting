@@ -7,10 +7,12 @@
       <mapping pattern="error_template" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="crdownload" type="PLAIN_TEXT" />
       <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
