@@ -3,12 +3,10 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="curl" type="AUTO_DETECTED" />
-      <mapping pattern="error_template" type="AUTO_DETECTED" />
       <mapping pattern="memo" type="AUTO_DETECTED" />
+      <mapping pattern="error_template" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="AUTO_DETECTED" />
       <mapping pattern="image-checker.yaml" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="payload" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
@@ -20,6 +18,8 @@
       <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
