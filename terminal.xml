@@ -1,6 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/usr/local/bin/fish" />
-    <option name="myTabName" value="py-term" />
-  </component>
-</application>
