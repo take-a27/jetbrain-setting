@@ -9,6 +9,7 @@
       <mapping pattern="image-checker.yaml" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="payload" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="yaml" type="PLAIN_TEXT" />
       <mapping ext="crdownload" type="PLAIN_TEXT" />
