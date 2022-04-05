@@ -17,11 +17,11 @@
       <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
-      <removed_mapping ext="yaml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
