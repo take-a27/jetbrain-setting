@@ -12,6 +12,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="crdownload" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
